@@ -1,16 +1,27 @@
-# photo_api
+# Galería de Fotos en Flutter
 
-A new Flutter project.
+Este proyecto es una aplicación de ejemplo que muestra una galería de fotos con diferentes categorías utilizando la API de Unsplash. Los usuarios pueden explorar fotos, seleccionar una imagen y descargarla con la opción de elegir el destino de guardado y el nombre del archivo.
 
-## Getting Started
+## Capturas de Pantalla
 
-This project is a starting point for a Flutter application.
+![Image1](https://live.staticflickr.com/65535/53259364363_18b1853452_o.png)
+![Image2](https://live.staticflickr.com/65535/53259419434_f51d8c0e9a_o.png)
+![Image3](https://live.staticflickr.com/65535/53259555920_3377fbc22b_o.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Interfaz de usuario intuitiva para explorar fotos en diversas categorías.
+- Opción de descargar fotos seleccionando el destino de guardado y el nombre del archivo.
+- Integración con la API de Unsplash para obtener imágenes de alta calidad.
+- Diseño de la aplicación implementado en Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uso
+
+Este repositorio se enfoca en la interfaz de usuario y la funcionalidad de la galería de fotos en Flutter. La lógica de programación para la interacción con la API de Unsplash y la descarga de imágenes ya está implementada.
+
+## Contacto
+
+- Hernán Rodríguez
+- Correo electrónico: hernanrg85@gmail.com
+
+Gracias por visitar mi repositorio. Este proyecto demuestra mis habilidades en el diseño de aplicaciones móviles y la integración de APIs para obtener y gestionar imágenes. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
